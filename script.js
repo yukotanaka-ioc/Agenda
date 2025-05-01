@@ -5,7 +5,7 @@ document.querySelector("form").addEventListner("submit", e => {
     alert("El camp no pot estar buit");
     return;
    }
-   // Lògica per afegir el contacte...
+   // Lògica per afegir el contacte.....
 });
 
 const contactes = ["Jose","Saida","Ruben"];
